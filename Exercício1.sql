@@ -1,0 +1,1 @@
+select nome, vencimento, valor from duplicatas;
